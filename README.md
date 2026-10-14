@@ -97,8 +97,6 @@ An intelligent logistics project focused on optimizing last-mile delivery throug
   </picture>
 </p>
 
-<p align="center"><a href="https://github.com/papnoivaishnavi?tab=overview">See the contribution graph and activity on my GitHub profile →</a></p>
-<p align="center"><sub>Profile cards refresh daily with public GitHub data.</sub></p>
 
 ---
 
