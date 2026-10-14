@@ -59,77 +59,27 @@
 
 ---
 
-## 📌 The project pinboard
+## 📌 Projects
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>📦 AidLogistix</h3>
-      <p>A disaster-relief logistics and inventory dashboard concept.</p>
-      <ul>
-        <li><strong>Focus:</strong> relief inventory and resource coordination.</li>
-        <li><strong>Design consideration:</strong> low-bandwidth and offline usability.</li>
-        <li><strong>Potential users:</strong> relief teams and inventory coordinators.</li>
-        <li><strong>Status:</strong> Selected for Smart India Hackathon 2026 — National Level.</li>
-        <li><strong>Team ID:</strong> 136604.</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>💳 SecurePay — UI/UX & 3D Website Design</h3>
-      <p>A fintech design challenge entry for Unstop, focused on polished interfaces and interactive website experiences.</p>
-      <ul>
-        <li><strong>Focus:</strong> UI/UX, visual design, and 3D web concepts.</li>
-        <li><strong>Contribution:</strong> design and website experience.</li>
-        <li><strong>Team achievement:</strong> our team ranked in the <strong>Top 3</strong> in the challenge.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🏙️ City Trash / Landfill Lifespan Calculator</h3>
-      <p>A featured landfill analytics project associated with the Tarang 2.0 challenge at GTBIT. It explores how dashboards and visual analytics can make landfill data easier to interpret.</p>
-      <ul>
-        <li><strong>Focus:</strong> waste management and landfill lifespan estimation.</li>
-        <li><strong>Features:</strong> dashboard, visual analytics, and Monte Carlo simulation concepts.</li>
-        <li><strong>Technologies:</strong> HTML, JavaScript, Chart.js, and data visualization.</li>
-      </ul>
-      <p>🔗 <a href="https://github.com/jasneetkr-1610/Delhi-Landfill-Intelligence">View the Delhi Landfill Intelligence repository →</a></p>
-    </td>
-  </tr>
-</table>
+### 🏙️ City Trash / Landfill Lifespan Calculator
 
-<p align="center"><a href="https://github.com/papnoivaishnavi?tab=repositories"><img alt="Browse all repositories" src="https://img.shields.io/badge/Explore%20all%20repositories-37D9B2?style=for-the-badge&logo=github&logoColor=252038" /></a></p>
+A featured landfill analytics project associated with the Tarang 2.0 challenge at GTBIT. It explores how dashboards and visual analytics can make landfill data easier to interpret.
 
----
+- **Focus:** waste management and landfill lifespan estimation.
+- **Features:** dashboard, visual analytics, and Monte Carlo simulation concepts.
+- **Technologies:** HTML, JavaScript, Chart.js, and data visualization.
 
-## 🏆 Achievements & experiences
+🔗 [View the Delhi Landfill Intelligence repository →](https://github.com/jasneetkr-1610/Delhi-Landfill-Intelligence)
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <p>🎖️ <strong>Smart India Hackathon 2026</strong><br />Selected for the National Level.</p>
-    </td>
-    <td valign="top" width="50%">
-      <p>🥇 <strong>SecurePay Design Challenge</strong><br />Our team ranked in the Top 3.</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <p>🎓 <strong>IIT Mandi</strong><br />Selected for a sponsored four-day Climate-Controlled Agri Automation & AI Workshop in September 2026.</p>
-    </td>
-    <td valign="top" width="50%">
-      <p>🌿 <strong>AgriTech & Automation</strong><br />Explored Arduino, ESP32, sensors, ThingSpeak, data analysis, machine-learning workflows, and RAG-based systems.</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <p>💡 <strong>Business Blasters 2023-2024</strong><br />Advanced from the top 3,000 to the top 1,000 in a Delhi government school entrepreneurship competition.</p>
-    </td>
-    <td valign="top" width="50%">
-      <p>🧪 <strong>TARANG 2.0 | DEPARTMENT OF APPLIED SCIENCES, GTBIT</strong><br />Worked on a landfill analytics and waste-management concept.</p>
-    </td>
-  </tr>
-</table>
+### 📦 LastMileAI | AI-Powered Smart Locker & Route Optimization
+
+An intelligent logistics project focused on optimizing last-mile delivery through traffic prediction, route planning, and secure parcel locker management.
+
+- **Focus:** AI-driven logistics, route optimization, and smart delivery systems.
+- **Features:** LSTM-based traffic prediction, optimized delivery routes, OTP-based parcel collection, and a delivery monitoring dashboard.
+- **Technologies:** Python, TensorFlow/Keras, Pandas, NumPy, OR-Tools, and Streamlit.
+
+🔗 [View the LastMileAI repository →](https://github.com/papnoivaishnavi/LastMileAI)
 
 ---
 
