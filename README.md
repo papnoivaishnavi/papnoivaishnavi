@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/dinosaur-header.gif" width="100%" alt="Animated pixel dinosaur moving across Vaishnavi Papnoi's header banner" />
+<img src="./assets/dinosaur-header.gif" width="100%" alt="Pixel dinosaur runs back and forth inside Vaishnavi Papnoi's header banner" />
 
 <h1>Vaishnavi Papnoi</h1>
 
@@ -26,7 +26,7 @@
       <p>🌱 <strong>Currently learning:</strong> Data Structures & Algorithms, Java, and OOP.</p>
     </td>
     <td align="center" valign="middle" width="30%">
-      <img src="./assets/kitten-sparkle.gif" width="240" alt="A pastel anime-style kitten blinking and swishing its tail among sparkles" />
+      <a href="https://pin.it/7GUC7DP8x"><img src="./assets/pinterest-cat.gif" width="240" alt="Blue cartoon kitten watches a progress bar reach 99 percent, then reacts to an error" /></a>
     </td>
   </tr>
 </table>
@@ -100,8 +100,6 @@
 
 <p align="center"><a href="https://github.com/papnoivaishnavi?tab=repositories"><img alt="Browse all repositories" src="https://img.shields.io/badge/Explore%20all%20repositories-37D9B2?style=for-the-badge&logo=github&logoColor=252038" /></a></p>
 
-<p align="center"><img src="./assets/kitten-nap.gif" width="280" alt="A sleepy orange anime kitten breathing gently beneath floating zzz letters" /></p>
-
 ---
 
 ## 🏆 Achievements & experiences
@@ -125,10 +123,10 @@
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <p>💡 <strong>Business Blasters</strong><br />Advanced from the top 3,000 to the top 1,000 in a Delhi government school entrepreneurship competition.</p>
+      <p>💡 <strong>Business Blasters 2023-2024</strong><br />Advanced from the top 3,000 to the top 1,000 in a Delhi government school entrepreneurship competition.</p>
     </td>
     <td valign="top" width="50%">
-      <p>🧪 <strong>Tarang 2.0</strong><br />Worked on a landfill analytics and waste-management concept.</p>
+      <p>🧪 <strong>TARANG 2.0 | DEPARTMENT OF APPLIED SCIENCES, GTBIT</strong><br />Worked on a landfill analytics and waste-management concept.</p>
     </td>
   </tr>
 </table>
