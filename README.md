@@ -1,18 +1,37 @@
 <div align="center">
 
-# Hi, I'm @papnoivaishnavi 👋
+<img src="github-header-banner.png" alt="Vaishnavi — Fullstack developer" width="100%" />
 
-Projects, experiments, and things I'm learning — shared as I build.
+### 🌸 A cozy corner for code, creativity, and cat energy 🐈
 
-[Browse my repositories](https://github.com/papnoivaishnavi?tab=repositories) · [See my activity](https://github.com/papnoivaishnavi?tab=overview)
+Projects, experiments, and ideas in progress — with a little anime magic along the way.
+
+[🧩 Explore the repositories](https://github.com/papnoivaishnavi?tab=repositories) &nbsp; ✦ &nbsp; [📈 See profile activity](https://github.com/papnoivaishnavi?tab=overview)
 
 </div>
 
----
+<br />
 
-Thanks for stopping by. This profile is a home for the code and ideas I share along the way.
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>🧩 Projects</strong><br /><br />Builds, experiments & ideas
+    </td>
+    <td align="center" width="33%">
+      <strong>🌸 Aesthetic</strong><br /><br />Anime-inspired, soft & playful
+    </td>
+    <td align="center" width="33%">
+      <strong>🐾 Sidekicks</strong><br /><br />Cats, always cats
+    </td>
+  </tr>
+</table>
 
-## Explore
+<br />
 
-- 🧩 [Repositories](https://github.com/papnoivaishnavi?tab=repositories) — projects and experiments
-- 📈 [Contributions](https://github.com/papnoivaishnavi?tab=overview) — recent activity
+<div align="center">
+
+### ✨ Take a look around
+
+Browse the repos for new projects and little experiments. Thanks for stopping by! 🐈‍⬛
+
+</div>
