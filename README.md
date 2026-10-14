@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./github-header-banner.png" width="100%" alt="Vaishnavi Papnoi — Computer Science Engineering student and Fullstack Developer" />
+<img src="./assets/dinosaur-header.gif" width="100%" alt="Animated pixel dinosaur moving across Vaishnavi Papnoi's header banner" />
 
 <h1>Vaishnavi Papnoi</h1>
 
@@ -18,11 +18,18 @@
 
 ## 🌸 A little about me
 
-I'm Vaishnavi Papnoi, a Computer Science Engineering student interested in building practical technology solutions through software development, AI/ML, and interactive web experiences.
-
-I enjoy researching problems, designing user-friendly interfaces, and turning ideas into prototypes. I'm strengthening my programming fundamentals while exploring technologies and building projects around real-world problems.
-
-🌱 **Currently learning:** Data Structures & Algorithms, Java, and OOP.
+<table>
+  <tr>
+    <td valign="middle" width="70%">
+      <p>I'm Vaishnavi Papnoi, a Computer Science Engineering student interested in building practical technology solutions through software development, AI/ML, and interactive web experiences.</p>
+      <p>I enjoy researching problems, designing user-friendly interfaces, and turning ideas into prototypes. I'm strengthening my programming fundamentals while exploring technologies and building projects around real-world problems.</p>
+      <p>🌱 <strong>Currently learning:</strong> Data Structures & Algorithms, Java, and OOP.</p>
+    </td>
+    <td align="center" valign="middle" width="30%">
+      <img src="./assets/kitten-sparkle.gif" width="240" alt="A pastel anime-style kitten blinking and swishing its tail among sparkles" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -57,45 +64,43 @@ I enjoy researching problems, designing user-friendly interfaces, and turning id
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>🏙️ City Trash</h3>
-      <p><strong>Landfill Lifespan Calculator</strong></p>
-      <p>A data-driven waste-management concept for estimating landfill lifespan, with interactive visualizations and Monte Carlo simulation concepts.</p>
-      <p><sub>HTML · JavaScript · Chart.js</sub></p>
+      <h3>📦 AidLogistix</h3>
+      <p>A disaster-relief logistics and inventory dashboard concept.</p>
+      <ul>
+        <li><strong>Focus:</strong> relief inventory and resource coordination.</li>
+        <li><strong>Design consideration:</strong> low-bandwidth and offline usability.</li>
+        <li><strong>Potential users:</strong> relief teams and inventory coordinators.</li>
+        <li><strong>Status:</strong> Selected for Smart India Hackathon 2026 — National Level.</li>
+        <li><strong>Team ID:</strong> 136604.</li>
+      </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>💳 SecurePay</h3>
-      <p><strong>UI/UX & 3D Website Design</strong></p>
-      <p>A fintech design challenge focused on interface design and interactive web experiences. Our team achieved a <strong>Top 3</strong> rank.</p>
-      <p><sub>UI/UX · Web Design · 3D Experiences</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🌱 AI Plant Health Assistant</h3>
-      <p>An AI-based project concept for identifying plant diseases or wilting and sharing plant-care information for household plants.</p>
-      <p><sub>AI/ML · Computer Vision · Plant Health</sub></p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>📦 AidLogistix / StockPulse</h3>
-      <p>A disaster-relief logistics and inventory dashboard concept designed around resource tracking and low-bandwidth usability.</p>
-      <p><sub>Web Development · Data Visualization · Accessibility</sub></p>
+      <h3>💳 SecurePay — UI/UX & 3D Website Design</h3>
+      <p>A fintech design challenge entry for Unstop, focused on polished interfaces and interactive website experiences.</p>
+      <ul>
+        <li><strong>Focus:</strong> UI/UX, visual design, and 3D web concepts.</li>
+        <li><strong>Contribution:</strong> design and website experience.</li>
+        <li><strong>Team achievement:</strong> our team ranked in the <strong>Top 3</strong> in the challenge.</li>
+      </ul>
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
-      <h3>🏭 Industrial Maintenance Dashboard</h3>
-      <p>A frontend prototype for company management, maintenance-hour tracking, and activity records, designed to complement an AR-guided technician workflow.</p>
-      <p><sub>Frontend Development · Dashboard Design · LocalStorage</sub></p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>🔍 COMMENTS-SCANNER</h3>
-      <p>A Firefox-related code repository exploring comment scanning.</p>
-      <p><a href="https://github.com/papnoivaishnavi?tab=repositories">Explore all repositories →</a></p>
+    <td colspan="2" valign="top">
+      <h3>🏙️ City Trash / Landfill Lifespan Calculator</h3>
+      <p>A featured landfill analytics project associated with the Tarang 2.0 challenge at GTBIT. It explores how dashboards and visual analytics can make landfill data easier to interpret.</p>
+      <ul>
+        <li><strong>Focus:</strong> waste management and landfill lifespan estimation.</li>
+        <li><strong>Features:</strong> dashboard, visual analytics, and Monte Carlo simulation concepts.</li>
+        <li><strong>Technologies:</strong> HTML, JavaScript, Chart.js, and data visualization.</li>
+      </ul>
+      <p>🔗 <a href="https://github.com/jasneetkr-1610/Delhi-Landfill-Intelligence">View the Delhi Landfill Intelligence repository →</a></p>
     </td>
   </tr>
 </table>
 
 <p align="center"><a href="https://github.com/papnoivaishnavi?tab=repositories"><img alt="Browse all repositories" src="https://img.shields.io/badge/Explore%20all%20repositories-37D9B2?style=for-the-badge&logo=github&logoColor=252038" /></a></p>
+
+<p align="center"><img src="./assets/kitten-nap.gif" width="280" alt="A sleepy orange anime kitten breathing gently beneath floating zzz letters" /></p>
 
 ---
 
@@ -104,22 +109,25 @@ I enjoy researching problems, designing user-friendly interfaces, and turning id
 <table>
   <tr>
     <td valign="top" width="50%">
-      <p>🥇 <strong>SecurePay Design Challenge</strong><br />Team ranked in the Top 3.</p>
+      <p>🎖️ <strong>Smart India Hackathon 2026</strong><br />Selected for the National Level.</p>
     </td>
+    <td valign="top" width="50%">
+      <p>🥇 <strong>SecurePay Design Challenge</strong><br />Our team ranked in the Top 3.</p>
+    </td>
+  </tr>
+  <tr>
     <td valign="top" width="50%">
       <p>🎓 <strong>IIT Mandi</strong><br />Selected for a sponsored four-day Climate-Controlled Agri Automation & AI Workshop in September 2026.</p>
     </td>
-  </tr>
-  <tr>
     <td valign="top" width="50%">
       <p>🌿 <strong>AgriTech & Automation</strong><br />Explored Arduino, ESP32, sensors, ThingSpeak, data analysis, machine-learning workflows, and RAG-based systems.</p>
     </td>
+  </tr>
+  <tr>
     <td valign="top" width="50%">
       <p>💡 <strong>Business Blasters</strong><br />Advanced from the top 3,000 to the top 1,000 in a Delhi government school entrepreneurship competition.</p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
+    <td valign="top" width="50%">
       <p>🧪 <strong>Tarang 2.0</strong><br />Worked on a landfill analytics and waste-management concept.</p>
     </td>
   </tr>
