@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**papnoivaishnavi/papnoivaishnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm @papnoivaishnavi 👋
 
-Here are some ideas to get you started:
+Projects, experiments, and things I'm learning — shared as I build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Browse my repositories](https://github.com/papnoivaishnavi?tab=repositories) · [See my activity](https://github.com/papnoivaishnavi?tab=overview)
+
+</div>
+
+---
+
+Thanks for stopping by. This profile is a home for the code and ideas I share along the way.
+
+## Explore
+
+- 🧩 [Repositories](https://github.com/papnoivaishnavi?tab=repositories) — projects and experiments
+- 📈 [Contributions](https://github.com/papnoivaishnavi?tab=overview) — recent activity
