@@ -67,7 +67,6 @@ A featured landfill analytics project associated with the Tarang 2.0 challenge a
 
 - **Focus:** waste management and landfill lifespan estimation.
 - **Features:** dashboard, visual analytics, and Monte Carlo simulation concepts.
-- **Technologies:** HTML, JavaScript, Chart.js, and data visualization.
 
 🔗 [View the Delhi Landfill Intelligence repository →](https://github.com/jasneetkr-1610/Delhi-Landfill-Intelligence)
 
@@ -77,7 +76,6 @@ An intelligent logistics project focused on optimizing last-mile delivery throug
 
 - **Focus:** AI-driven logistics, route optimization, and smart delivery systems.
 - **Features:** LSTM-based traffic prediction, optimized delivery routes, OTP-based parcel collection, and a delivery monitoring dashboard.
-- **Technologies:** Python, TensorFlow/Keras, Pandas, NumPy, OR-Tools, and Streamlit.
 
 🔗 [View the LastMileAI repository →](https://github.com/papnoivaishnavi/LastMileAI)
 
