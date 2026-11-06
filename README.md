@@ -2,7 +2,7 @@
 
 <img src="./assets/dinosaur-header.gif" width="100%" alt="Pixel dinosaur runs back and forth inside Vaishnavi Papnoi's header banner" />
 
-<h1>Vaishnavi Papnoi</h1>
+<h1>Konnichiwa</h1>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3200&pause=900&color=37D9B2&center=true&vCenter=true&width=720&height=48&lines=Computer+Science+Engineering+Student;Fullstack+Developer;Exploring+AI%2FML+%26+Interactive+Web+Experiences" alt="Computer Science Engineering student, Fullstack Developer, exploring AI/ML and interactive web experiences" />
