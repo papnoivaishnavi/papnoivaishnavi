@@ -36,6 +36,13 @@
   <p><strong>Thanks for stopping by. Nice to have ya!</strong> ✨</p>
 
 </td>
+    <td align="center" valign="middle" width="30%">
+      <a href="https://pin.it/7GUC7DP8x">
+        <img src="./assets/pinterest-cat.gif"
+             width="240"
+             alt="Blue cartoon kitten watching a progress bar reach 99 percent" />
+      </a>
+    </td>
   </tr>
 </table>
 
