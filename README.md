@@ -61,14 +61,17 @@
 
 ## 📌 Projects
 
-### 🏙️ City Trash / Landfill Lifespan Calculator
+### ## 📌 Projects
 
-A featured landfill analytics project associated with the Tarang 2.0 challenge at GTBIT. It explores how dashboards and visual analytics can make landfill data easier to interpret.
+### 🔐 VeilDB | Smart Data Masking System for PII Protection
 
-- **Focus:** waste management and landfill lifespan estimation.
-- **Features:** dashboard, visual analytics, and Monte Carlo simulation concepts.
+A database-agnostic data protection engine that automatically detects sensitive information and applies dynamic, role-based masking without modifying underlying database records.
 
-🔗 [View the Delhi Landfill Intelligence repository →](https://github.com/jasneetkr-1610/Delhi-Landfill-Intelligence)
+- **Focus:** Data privacy, PII detection, database security, and role-based access control (RBAC).
+- **Features:** SQLAlchemy database management, query interception, FastAPI REST APIs, dynamic masking strategies, and an interactive Streamlit dashboard.
+- **Testing:** 104 tests passed; backend and UI/UX contributions integrated into the main branch.
+
+🔗 [View the VeilDB repository →](https://github.com/papnoivaishnavi/VeilDB)
 
 ### 📦 LastMileAI | AI-Powered Smart Locker & Route Optimization
 
