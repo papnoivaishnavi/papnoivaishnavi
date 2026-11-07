@@ -20,14 +20,22 @@
 
 <table>
   <tr>
-    <td valign="middle" width="70%">
-      <p>I'm Vaishnavi Papnoi, a Computer Science Engineering student interested in building practical technology solutions through software development, AI/ML, and interactive web experiences.</p>
-      <p>I enjoy researching problems, designing user-friendly interfaces, and turning ideas into prototypes. I'm strengthening my programming fundamentals while exploring technologies and building projects around real-world problems.</p>
-      <p>🌱 <strong>Currently learning:</strong> Data Structures & Algorithms, Java, and OOP.</p>
-    </td>
-    <td align="center" valign="middle" width="30%">
-      <a href="https://pin.it/7GUC7DP8x"><img src="./assets/pinterest-cat.gif" width="240" alt="Blue cartoon kitten watches a progress bar reach 99 percent, then reacts to an error" /></a>
-    </td>
+<td valign="middle" width="70%">
+
+  <p>🌍 <strong>Beyond code:</strong></p>
+
+  <ul>
+    <li>Anime enthusiast — <em>Hunter x Hunter</em> has a special place on my list.</li>
+    <li>Learning languages: Korean 🇰🇷, Japanese 🇯🇵, and French 🇫🇷.</li>
+    <li>Always curious about different cultures, ideas, and perspectives.</li>
+    <li>Enjoy discovering opportunities, meeting new people, and learning something unexpected along the way.</li>
+  </ul>
+
+  <p>I believe there's always something new to discover, build, or learn.</p>
+
+  <p><strong>Thanks for stopping by. Nice to have ya!</strong> ✨</p>
+
+</td>
   </tr>
 </table>
 
@@ -60,8 +68,6 @@
 ---
 
 ## 📌 Projects
-
-### ## 📌 Projects
 
 ### 🔐 VeilDB | Smart Data Masking System for PII Protection
 
@@ -103,6 +109,13 @@ An intelligent logistics project focused on optimizing last-mile delivery throug
 
 ## 🌐 Find me online
 
-<p align="center"><a href="https://github.com/papnoivaishnavi"><img alt="GitHub @papnoivaishnavi" src="https://img.shields.io/badge/GitHub-@papnoivaishnavi-252038?style=for-the-badge&logo=github&logoColor=37D9B2" /></a></p>
+<p align="center">
+  <a href="https://github.com/papnoivaishnavi">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@papnoivaishnavi-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vaishnavi-papnoi-a7778b404/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vaishnavi%20Papnoi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">🐈‍⬛ &nbsp; ✨ &nbsp; 🐾 &nbsp; ✨ &nbsp; 🐈</p>
